@@ -1,0 +1,15 @@
+# Build / IDE
+target/
+.bloop/
+.metals/
+.vscode/
+
+# OS / temp files
+*.class
+*.log
+*.png
+*.csv:Zone.Identifier
+
+# Others
+*.tmp
+
